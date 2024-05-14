@@ -73,5 +73,7 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation("com.squareup.okhttp3:okhttp:4.9.1")
     implementation("com.squareup.picasso:picasso:2.8")
+    implementation ("org.jsoup:jsoup:1.14.3")
+
 
 }
